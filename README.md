@@ -7,10 +7,15 @@ a unifying framework based on singular perturbation theory__
 by Henrik Weyer, Fridtjof Brauns, and Erwin Frey.
 
 _Coarsening_ simulation code associated with Fig. 1
+
 _Interrupted coarsening_ Figs. 3 & 9
+
 _Eigenmode approximations_ Figs. 6, 16, 18
+
 _Eigenvalue mapping cubic model_ Fig. 10
+
 _Eigenvalue mapping Brusselator model_ Fig. 11
+
 _Eigenvalue mapping peakforming model_ Fig. 12
 
 ## Comsol simulations
