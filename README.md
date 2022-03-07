@@ -6,7 +6,9 @@ a unifying framework based on singular perturbation theory__
 
 by Henrik Weyer, Fridtjof Brauns, and Erwin Frey.
 
-_Coarsening_ simulation code associated with Fig. 1
+In detail, the code is associated with the following figures:
+
+_Coarsening_ Fig. 1
 
 _Interrupted coarsening_ Figs. 3, 9
 
@@ -17,6 +19,8 @@ _Eigenvalue mapping cubic model_ Fig. 10
 _Eigenvalue mapping Brusselator model_ Fig. 11
 
 _Eigenvalue mapping peakforming model_ Fig. 12
+
+_Stationary patterns weak source terms_ Fig. 17
 
 ## Comsol simulations
 Large-scale simulations of pattern dynamics are performed in Comsol. The files do not contain simulation results but have to be evaluated first using Comsol Version 5.6.
