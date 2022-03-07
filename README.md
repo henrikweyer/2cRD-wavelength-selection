@@ -8,7 +8,7 @@ by Henrik Weyer, Fridtjof Brauns, and Erwin Frey.
 
 _Coarsening_ simulation code associated with Fig. 1
 
-_Interrupted coarsening_ Figs. 3 & 9
+_Interrupted coarsening_ Figs. 3, 9
 
 _Eigenmode approximations_ Figs. 6, 16, 18
 
