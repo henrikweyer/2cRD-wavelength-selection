@@ -12,6 +12,8 @@ _Coarsening_ Fig. 1
 
 _Interrupted coarsening_ Figs. 3, 9
 
+_Initial instability_ Fig. 4
+
 _Eigenmode approximations_ Figs. 6, 16, 18
 
 _Eigenvalue mapping cubic model_ Fig. 10
